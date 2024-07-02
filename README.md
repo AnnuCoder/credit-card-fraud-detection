@@ -1,6 +1,7 @@
 <center><img src="https://1.bp.blogspot.com/-d8quHeA23kA/XRH_AeTzRZI/AAAAAAAACYc/w4Qulnhld7g3msiQ17uxVaLwhOA_lQZdQCLcBGAs/s1600/credit%2Bcard.jpg"></center><br>
 
 # Credit-Card-Fraud-Detection-Using-Machine-Learning
+<br>
 
  # Introduction
 
@@ -9,14 +10,12 @@ In a scenario such as this one, it is **extremely** important that credit card c
 In this project, I used the **scikit-learn** library to develop a prediction model that is able to learn and detect when a transaction is a fraud or a genuine purchase. I tested four different classification algorithms, **Decision Tree**, **Random Forest**, **Ada Boost Classifier** and **Gradient Boosting** to identify which one of them would achieve the best results with our dataset.
 
 <br>
-<br>
 
 # Project goals
 
 The main objective is to develop a prediction model that is able to learn and detect when a transaction is deriving from fraud or a genuine purchase. I intend to use some different classification algorithms and try to identify which one of them achieve the best results with our dataset.
 
 
-<br>
 <br>
 
 # Data Source
@@ -29,7 +28,6 @@ of each Attribute, ”Amount” is the amount of each transaction, and the final
 <a href="creditcard.csv">creditcard.csv</a>
 
 <br>
-<br>
 
 # Algorithm 
 1. Random Forest
@@ -38,7 +36,6 @@ of each Attribute, ”Amount” is the amount of each transaction, and the final
 4. Gradient Boosting
 
 
-<br>
 <br>
 
 # Evaluation Metrics for Classification Models<br>
